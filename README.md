@@ -124,6 +124,29 @@ $$T_{\text{int}, G} =
 \int_{x_G}^{x_M} p(x) \cdot (x - x_G) \,dx \cdot \mathbf{z} + \int_{x_G}^{x_L} p(x) \cdot (x - x_G) \,dx \cdot \mathbf{z} + F (x_M - x_G) \cdot \mathbf{z}
 \end{bmatrix}_G$$
 
+### Bending Resistance Criterion
+The bending resistance criterion can be expressed as follow: 
+
+$$
+\sigma_{\text{maxi}} \leq Rpe
+$$
+
+Or equivalently:
+
+$$
+\sigma = \frac{M_{fz}}{\left( \frac{IGz}{v} \right)} \leq Rpe
+$$
+
+With:
+
+$$
+\left( \frac{IGz}{v} \right)
+$$
+
+as the bending modulus.
+
+- \( v \) : Distance between the neutral axis and the farthest fiber ( $v = y_{\text{max}}$ )
+
 #### Bending Moment Calculation
 
 For the segment $[M, L]$:
