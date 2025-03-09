@@ -214,7 +214,7 @@ The Fieseler Fi 156 is a German military reconnaissance aircraft of the Second W
 | **Masse volumique**     | ρ = 2700 kg/m³      |
 | **Module de Young**     | E = 65000 MPa       |
 | **Poisson's ratio**     | ν = 0.33            |
-| **Résistance élastique** | Rₑ = 190 MPa       |
+| **elastic resistance** | Rₑ = 190 MPa       |
 
 Below are some visualizations of our analysis:
 
