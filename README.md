@@ -195,7 +195,8 @@ The Fieseler Fi 156 is a German military reconnaissance aircraft of the Second W
 ### Architectural Plan Fi-156
 ![Architectural Plan FI-156](Basic-Simulation-Outputs/image.png)
 ### Table 1: Parameters of the Fi-156
-
+<div align="center">
+   
 | **Parameter**      | **Value**      |
 |--------------------|---------------|
 | **Envergure**      | **14.25 m**    |
@@ -206,8 +207,11 @@ The Fieseler Fi 156 is a German military reconnaissance aircraft of the Second W
 | $V_{\text{max}}$           | 175 km/h       |
 | **Stall speed**    | 46 km/h        |
 | **Range**         | 385 km         |
+   
+</div>
 
 ### Table 2: Material Properties
+<div align="center">
 
 | **Property**            | **Value**            |
 |-------------------------|---------------------|
@@ -216,16 +220,28 @@ The Fieseler Fi 156 is a German military reconnaissance aircraft of the Second W
 | **Poisson's ratio**     | ν = 0.33            |
 | **elastic resistance** | Rₑ = 190 MPa       |
 
+</div>
 Below are some visualizations of our analysis:
 
 ### Lift Distribution  
-![Lift Distribution](Basic-Simulation-Outputs/Lift-Distribution-Over-The-Wing.jpg)
+<p align="center">
+
+ <img src="Basic-Simulation-Outputs/Lift-Distribution-Over-The-Wing.jpg">
+ 
+</p>
 
 ### Displacement Over the Wing  
-![Wing Structure](Basic-Simulation-Outputs/DISPLACEMENT-Over-The-Wing.jpg)
+<p align="center">
+
+<img src="Basic-Simulation-Outputs/DISPLACEMENT-Over-The-Wing.jpg">
+
+</p>
 
 ### Tangential Stress  
-![Bending Moment](Basic-Simulation-Outputs/Moment-Flechissant.jpg)
+<p align="center">
+
+<img src="Basic-Simulation-Outputs/Moment-Flechissant.jpg">
+</p>
 
 ## Getting Started
 
@@ -237,7 +253,7 @@ To run the MATLAB simulations, ensure you have:
 ### Running the Code
 1. Clone this repository:
    ```sh
-   git clone https://github.com/OMB227/Study-Of-Aircraft-Behavior-Project.git
+   git clone https://github.com/oumarou-Bola/Study-Of-Aircraft-Behavior-Project.git
    ```
 2. Open MATLAB and navigate to the repository directory.
 3. Run `PFA.code` or `Oscar Shrink Code` to start the analysis.
