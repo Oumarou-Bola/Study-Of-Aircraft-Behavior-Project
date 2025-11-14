@@ -58,7 +58,6 @@ The **Virtual Work Method** is used to determine displacements and deformations 
 ```math
 \delta W_{ext} = \delta W_{int}
 ```
-
 This method is particularly useful for analyzing deflections in aircraft wing structures.
 
 #### Shear Force Calculation
