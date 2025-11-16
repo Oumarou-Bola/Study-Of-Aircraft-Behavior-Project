@@ -200,10 +200,10 @@ The Fieseler Fi 156 is a German military reconnaissance aircraft of the Second W
 |--------------------|---------------|
 | **Envergure**      | **14.25 m**    |
 | **Longueur**       | 9.90 m         |
-| Hauteur           | 3.05 m         |
+| **Hauteur**           | 3.05 m         |
 | **Surface alaire** | 26 m²          |
-| MTOW              | 1320 kg        |
-| $V_{\text{max}}$           | 175 km/h       |
+| **MTOW**              | 1320 kg        |
+| **$V_{\text{max}}$**           | 175 km/h       |
 | **Stall speed**    | 46 km/h        |
 | **Range**         | 385 km         |
    
