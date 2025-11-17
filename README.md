@@ -257,6 +257,6 @@ To run the MATLAB simulations, ensure you have:
 2. Open MATLAB and navigate to the repository directory.
 3. Run `PFA.code` or `Oscar Shrink Code` to start the analysis.
 ## Contact
-For more information, feel free to reach out:  
+For more information, experimental setup or access to the detailed project report, feel free to reach out:  
 📧 **moussabolaoumarou@gmailcom**  
 
