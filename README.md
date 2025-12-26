@@ -1,11 +1,12 @@
 # Study of Aircraft Behavior Project
 
 ## Project Overview
-\begin{justify}
 
+<p align="justify">   
 This project focuses on analyzing aircraft wing structures and lift distribution using computational simulations. The MATLAB-based implementation investigates aerodynamic properties using techniques such as Oscar Shrink Lift Distribution and Prandtl's Lifting Line Theory. Our simulations aim to enhance the understanding of aircraft performance and structural efficiency.
 
-\end{justify}
+</p>
+
 ### Project Contributors
 - **Oumarou Moussa Bola**
 - **Nouaili Mariem**
